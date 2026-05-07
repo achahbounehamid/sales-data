@@ -1,4 +1,4 @@
-# Sales Data Pipeline
+# Sales Data
 
 ##  Description
 
@@ -14,7 +14,6 @@ L’objectif est de mettre en place une architecture Docker permettant :
 ---
 
 ##  Architecture
-..
 ![MCD](../sales-data/asset/mcd.PNG)
 Le projet repose sur deux services :
 
