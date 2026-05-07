@@ -15,7 +15,7 @@ L’objectif est de mettre en place une architecture Docker permettant :
 
 ##  Architecture
 ..
-![MCD](../sales-data/asset/mcd_new.PNG)
+![MCD](../sales-data/asset/mcd.PNG)
 Le projet repose sur deux services :
 
 * un service Python pour les scripts
